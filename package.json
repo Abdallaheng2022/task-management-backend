@@ -1,0 +1,16 @@
+{
+  "name": "task-management-backend",
+  "version": "1.0.0",
+  "description": "Session 1 assignment: Node.js (ESM) task management backend starter with in-memory data",
+  "type": "module",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "node --watch src/app.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT"
+}
